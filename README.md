@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data analyst from Leeds, UK. Using SQL on a day to day basis at work and teaching myself python from in my own time and using github to track my progress!
+Data analyst from Leeds. 
+Using SQL on a day to day basis at work; teaching myself python in my own time and using github to track my progress!
